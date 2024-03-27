@@ -1,4 +1,4 @@
-Privacy Policy for Discord Bot
+# Privacy Policy for Discord Bot
 Effective Date: 5 aug, 2023
 
 1. Introduction
